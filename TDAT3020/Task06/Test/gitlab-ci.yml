@@ -1,0 +1,13 @@
+image: ubuntu:latest
+
+stages:
+    - fuzz
+
+fuzz:
+    stage: fuzz
+    script:
+        - apt-get update
+        - apt-get upgrade -y
+        - apt-get install clang build-essential -y
+        - clang -g -O1 -fsanitize=fuzzer,address -o fuzztest FuzzTarget.c
+        - ./fuzztest -only_ascii=1 -max_len=999999 -max_total_time=30

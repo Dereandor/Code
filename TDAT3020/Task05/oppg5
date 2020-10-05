@@ -1,0 +1,5 @@
+gravaksenter gjør at du kjører et eget kommando inni et kommando, 
+slik at f.eks. echo Jeg heter `whoami` kjører whoami kommandoen inni den andre slik at du får den som svar inni echo kommandoen
+på denne pcn får du da 
+[dereandor@manjaro ~]$ echo Jeg heter `whoami`
+Jeg heter dereandor

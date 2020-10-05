@@ -1,0 +1,3 @@
+fjernet /jpg fra JPGDIR på linje 3 og laget en if for å sjekke om filen 
+allerede er i mappen, deretter sjekker om mappen finnes
+ og evt flytter filen inn i rett mappe

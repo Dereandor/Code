@@ -1,0 +1,10 @@
+--- fil1.c	2020-08-26 09:33:38.333213879 +0200
++++ fil2.c	2020-08-26 09:35:45.358466794 +0200
+@@ -1,4 +1,6 @@
+ #include <stdio.h>
+-int main () {
++int main(int argc, char *argv[])
++{
+     printf("noe skjer\n");
++    printf("Ha det!\n");
+ }

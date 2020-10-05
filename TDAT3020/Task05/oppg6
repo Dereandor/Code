@@ -1,0 +1,2 @@
+*/2 8-11,13-15 * * 1-5 killall quake
+30-59/2 12 * * 1-5 killall quake

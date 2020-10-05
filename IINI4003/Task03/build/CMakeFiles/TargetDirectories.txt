@@ -1,0 +1,5 @@
+/home/dereandor/Code/IINI4003/Task03/build/CMakeFiles/rebuild_cache.dir
+/home/dereandor/Code/IINI4003/Task03/build/CMakeFiles/edit_cache.dir
+/home/dereandor/Code/IINI4003/Task03/build/CMakeFiles/Oppgave4.dir
+/home/dereandor/Code/IINI4003/Task03/build/CMakeFiles/Commodity.dir
+/home/dereandor/Code/IINI4003/Task03/build/CMakeFiles/Task03.dir

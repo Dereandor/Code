@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/dereandor/Code/IINI4003/Task03/build",
+  "command": "/usr/bin/c++    -std=c++1y -Wall -Wextra -o CMakeFiles/Oppgave4.dir/oppg4.cpp.o -c /home/dereandor/Code/IINI4003/Task03/oppg4.cpp",
+  "file": "/home/dereandor/Code/IINI4003/Task03/oppg4.cpp"
+},
+{
+  "directory": "/home/dereandor/Code/IINI4003/Task03/build",
+  "command": "/usr/bin/c++    -std=c++1y -Wall -Wextra -o CMakeFiles/Commodity.dir/commoditytest.cpp.o -c /home/dereandor/Code/IINI4003/Task03/commoditytest.cpp",
+  "file": "/home/dereandor/Code/IINI4003/Task03/commoditytest.cpp"
+},
+{
+  "directory": "/home/dereandor/Code/IINI4003/Task03/build",
+  "command": "/usr/bin/c++    -std=c++1y -Wall -Wextra -o CMakeFiles/Task03.dir/main.cpp.o -c /home/dereandor/Code/IINI4003/Task03/main.cpp",
+  "file": "/home/dereandor/Code/IINI4003/Task03/main.cpp"
+}
+]

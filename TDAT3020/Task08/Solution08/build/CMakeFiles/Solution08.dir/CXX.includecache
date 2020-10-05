@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dereandor/Code/TDAT3020/Task08/Solution08/main.cpp
+util.hpp
+/home/dereandor/Code/TDAT3020/Task08/Solution08/util.hpp
+iostream
+-
+string
+-
+
+/home/dereandor/Code/TDAT3020/Task08/Solution08/util.hpp
+iomanip
+-
+iostream
+-
+openssl/evp.h
+-
+openssl/sha.h
+-
+sstream
+-
+string
+-
+

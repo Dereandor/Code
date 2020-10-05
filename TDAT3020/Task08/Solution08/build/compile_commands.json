@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dereandor/Code/TDAT3020/Task08/Solution08/build",
+  "command": "/usr/bin/c++    -std=c++1y -Wall -Wextra -o CMakeFiles/Solution08.dir/main.cpp.o -c /home/dereandor/Code/TDAT3020/Task08/Solution08/main.cpp",
+  "file": "/home/dereandor/Code/TDAT3020/Task08/Solution08/main.cpp"
+}
+]

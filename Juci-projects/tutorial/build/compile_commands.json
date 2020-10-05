@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dereandor/Code/Juci-projects/tutorial/build",
+  "command": "/usr/bin/c++     -std=c++1y -Wall -Wextra   -o CMakeFiles/tutorial.dir/main.cpp.o -c /home/dereandor/Code/Juci-projects/tutorial/main.cpp",
+  "file": "/home/dereandor/Code/Juci-projects/tutorial/main.cpp"
+}
+]

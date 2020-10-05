@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++1y -Wall -Wextra -rdynamic CMakeFiles/Oppgave4.dir/oppg4.cpp.o -o Oppgave4 

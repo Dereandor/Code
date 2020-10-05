@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+}
+
+#h3custom {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+#runbutton {
+    margin-left: 40%;
+
+}
+
+#background {
+    margin-left: auto;
+    margin-right: auto;
+    width: 28%;
+}
+
+#output {
+    margin-left: 36%;
+    width: 26%;
+}
