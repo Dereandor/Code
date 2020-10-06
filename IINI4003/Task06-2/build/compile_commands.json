@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dereandor/Code/IINI4003/Task06-2/build",
+  "command": "/usr/bin/c++    -std=c++1y -Wall -Wextra -pthread -o CMakeFiles/Task06-2.dir/main.cpp.o -c /home/dereandor/Code/IINI4003/Task06-2/main.cpp",
+  "file": "/home/dereandor/Code/IINI4003/Task06-2/main.cpp"
+}
+]

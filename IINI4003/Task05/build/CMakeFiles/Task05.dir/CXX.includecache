@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dereandor/Code/IINI4003/Task05/main.cpp
+functional
+-
+iostream
+-
+memory
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,3 @@
+/home/dereandor/Code/IINI4003/Task06-2/build/CMakeFiles/edit_cache.dir
+/home/dereandor/Code/IINI4003/Task06-2/build/CMakeFiles/rebuild_cache.dir
+/home/dereandor/Code/IINI4003/Task06-2/build/CMakeFiles/Task06-2.dir
