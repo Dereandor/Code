@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dereandor/Code/IINI4003/Task08/Pair.cpp
+
+/home/dereandor/Code/IINI4003/Task08/oppg2.cpp
+Pair.cpp
+/home/dereandor/Code/IINI4003/Task08/Pair.cpp
+iostream
+-
+

@@ -1,0 +1,5 @@
+/home/dereandor/Code/IINI4003/Task08/build/CMakeFiles/oppg2.dir
+/home/dereandor/Code/IINI4003/Task08/build/CMakeFiles/rebuild_cache.dir
+/home/dereandor/Code/IINI4003/Task08/build/CMakeFiles/oppg1.dir
+/home/dereandor/Code/IINI4003/Task08/build/CMakeFiles/edit_cache.dir
+/home/dereandor/Code/IINI4003/Task08/build/CMakeFiles/Task08.dir
