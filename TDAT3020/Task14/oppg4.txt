@@ -1,0 +1,8 @@
+a)
+    Med 29 tegn kan vi ha 29! forskjellige nøkler
+
+b)
+    Enkle grep er bevisste stavefeil, unngår mønstre i meldingen som f.eks. hilsninger.
+
+c)
+    28^n!
